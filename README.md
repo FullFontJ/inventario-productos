@@ -2,5 +2,5 @@
 
 
 ![productos](screenshots/productos.png)
-![formulario productos](form-agregar.png)
+![formulario productos](screenshots/form-agregar.png)
 
